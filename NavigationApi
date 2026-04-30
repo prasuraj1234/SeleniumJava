@@ -1,8 +1,3 @@
-# Topics 
-navigation api of the selenium
-
-## for the change page
-
 package navigationAPI;
 
 import org.openqa.selenium.WebDriver;
