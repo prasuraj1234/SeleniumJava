@@ -1,7 +1,7 @@
 # Project Details
 
 This is another code documentation file
-of teh selenium webdriver.
+of the selenium webdriver.
 
 ## Topics
 
